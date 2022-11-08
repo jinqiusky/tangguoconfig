@@ -39,8 +39,8 @@
         {"key":"搜狗(DR)","name":"🥉搜狗(JS)","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/菜狗.js"},
         {"key":"低端影视(DR)","name":"🥉DDYS(JS)","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/ddys.js"},
         {"key":"快看(DR)","name":"🥉快看(JS)","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/快看.js"},
-        {"key": "drpy_js_AGE动漫","name": "🥉AGE动漫[JS]","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","ext": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/AGE动漫.js"},
-        {"key": "AList","name": "🔪AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhoujck/tv/raw/master/JAR/Alist.jar","ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/Alist"}
+        {"key": "drpy_js_AGE动漫","name": "🥉AGE动漫[JS]","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","ext": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/AGE动漫.js"}
+        //{"key": "AList","name": "🔪AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhoujck/tv/raw/master/JAR/Alist.jar","ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/Alist"}
     ],
 
      "parses": [
