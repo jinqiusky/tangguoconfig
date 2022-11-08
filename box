@@ -15,7 +15,7 @@
 
         {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_fant","name":"🍙饭团影视(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-        {"key": "Bili","name": "🅱Bilibili","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
+        //{"key": "Bili","name": "🅱Bilibili","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
         {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
         {"key":"csp_CZSPP","name":"🏭厂长超清(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
         {"key": "农民","name": "⛲农民(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
