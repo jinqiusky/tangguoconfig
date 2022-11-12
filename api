@@ -1,0 +1,56 @@
+{
+    "urls": [
+        {
+            "url": "",
+            "name": "===请选择下方线路==="
+        }, 
+        {
+            "url": "https://gitee.com/zhoujck/tv/raw/master/box",
+            "name": "🌝红糖小花卷"
+        }, 
+        {
+            "url": "https://gitee.com/zhoujck/tv/raw/master/TEXT/LittleApple",
+            "name": "🍎小苹果〔多条线路〕"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "☁️云星家庭〔纯绿色家庭版〕"
+        },
+        {
+            "url": "https://gitee.com/wdc558/calendretvbox/raw/master/shisan.json",
+            "name": "🌝梅零落"
+        }, 
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "📱网络搜集①〔多条线路〕"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "📱网络搜集②〔多条线路〕"
+        },
+        {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "📱网络搜集③〔多条线路〕"
+        },
+        {
+            "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
+            "name": "📱网络搜集④〔多条线路〕"
+        },
+        {
+            "url": "http://byyds.top/w.txt",
+            "name": "📱网络搜集⑤〔多条线路〕"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "📱网络搜集⑥〔多条线路〕"
+        },
+          {
+            "url": "https://gitee.com/zhoujck/tv/raw/master/TEXT/box",
+            "name": "📱网络搜集8〔多条线路〕"
+        }, 
+        {
+            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
+            "name": "📱网络搜集⑦〔多条线路〕"
+        }  
+    ]
+}
