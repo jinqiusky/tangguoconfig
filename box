@@ -58,7 +58,7 @@
          {"name":"聚合","type":"3","url":"Demo"},
          {"name":"并发","type":"2","url":"Parallel"},
          {"name":"轮询","type":"2","url":"Sequence"},
-         {"name": "江湖解析","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+         //{"name": "江湖解析","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
          {"name":"呆萌1","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
          {"name":"呆萌2","type":0,"url":"http://jx.nikucms.com/pc/index6.php?url="},
          {"name":"呆萌3","type":0,"url":"http://91fanli.top/m3u8/?url="},
