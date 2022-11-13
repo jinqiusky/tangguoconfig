@@ -28,7 +28,7 @@
         {"key": "Auete","name": "🚒Auete(爬虫)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "Kuaikan","name": "👀快看(爬虫)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-        {"key": "Gitcafe","name":"📜小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
+        {"key": "Gitcafe","name":"📜小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"JAR":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar","ext": "c3895f91c81741959c22feb5fe3a5def"},
         {"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
        //{"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
         //{"key":"csp_Yiso","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c3895f91c81741959c22feb5fe3a5def"},
