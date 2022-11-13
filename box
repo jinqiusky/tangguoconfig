@@ -1,6 +1,6 @@
 { 
-    //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar", 
-    "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",   
+    "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar", 
+    //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",   
     //"spider":"https://gitee.com/zhoujck/tv/raw/master/JAR/1014.jar",
 
 
@@ -14,7 +14,7 @@
         //首页推荐，搜索
         {"key":"T4_douban","name": "🎬豆瓣推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0}, 
         //{"key": "dr_360影视","name": "🥉360影视(JS)","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/360影视.js"},
-        {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
         {"key":"csp_fant","name":"🍙饭团影视(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
         {"key": "Bili","name": "🅱Bilibili","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
         {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
@@ -28,7 +28,7 @@
         {"key": "Auete","name": "🚒Auete(爬虫)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "Kuaikan","name": "👀快看(爬虫)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-        {"key": "Gitcafe","name":"📜小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"JAR":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar","ext": "c3895f91c81741959c22feb5fe3a5def"},
+        {"key": "Gitcafe","name":"📜小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
         {"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
        //{"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
         //{"key":"csp_Yiso","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c3895f91c81741959c22feb5fe3a5def"},
