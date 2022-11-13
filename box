@@ -30,13 +30,10 @@
 
         {"key": "Gitcafe","name":"📜小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
         {"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
-       //{"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
-        //{"key":"csp_Yiso","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c3895f91c81741959c22feb5fe3a5def"},
-       // {"key": "push_agent","name":"🍭推送〔阿里推送/磁力推送〕","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "c3895f91c81741959c22feb5fe3a5def"},
-        //{"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/磁搜.json"},
-        //{"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力〔XP〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXP/音范丝磁力.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
-        //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-
+        {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+ 
+        //测试
+        {"key":"drpy_js_test","name":"🪁js测试[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/.js"},	 
 
         //DRJS
         //{"key":"酷云77(DR)","name":"🥉酷云77(JS)","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/酷云77.js"},
