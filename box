@@ -1,5 +1,6 @@
 { 
-    "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar",    
+    //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar", 
+    "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",   
     //"spider":"https://gitee.com/zhoujck/tv/raw/master/JAR/1014.jar",
 
 
