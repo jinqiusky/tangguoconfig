@@ -12,7 +12,7 @@
 
         //首页推荐，搜索
         {"key":"T4_douban","name": "🎬豆瓣推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0}, 
-        {"key": "dr_360影视","name": "🥉360影视(JS)","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/360影视.js"},
+        //{"key": "dr_360影视","name": "🥉360影视(JS)","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/360影视.js"},
         //{"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_fant","name":"🍙饭团影视(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
         {"key": "Bili","name": "🅱Bilibili","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
