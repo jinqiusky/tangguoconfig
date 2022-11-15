@@ -23,7 +23,7 @@
         //{"key": "AppTT","name": "2👁️TT(爬虫)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1}, 
         {"key": "哔滴影视","name": "🐎哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
         //{"key": "Bttoo","name": "👁Bttoo(爬虫)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-        {"key":"小苹果","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+        //{"key":"小苹果","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
         //{"key": "在线之家","name": "😹在线之家(爬虫)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "Auete","name": "🚒Auete(爬虫)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "Kuaikan","name": "👀快看(爬虫)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
