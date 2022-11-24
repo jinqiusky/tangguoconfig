@@ -9,7 +9,7 @@
     "sites":[  
 
         //首页推荐，搜索
-        {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},
+        {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},
         //{"key":"t4public","name":"🎬影视推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
         //{"key":"T4_douban","name": "🎬豆瓣推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0}, 
         {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
