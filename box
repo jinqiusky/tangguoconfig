@@ -9,7 +9,7 @@
     "sites":[  
 
         //首页推荐，搜索
-        {key:'drpy_js_豆瓣',name:' 🎑豆瓣[DRPY]',type:3,api:'https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js',ext:'https://github.com/heroaku/TVboxo/raw/main/Js/豆瓣.js'},
+        {"key": "dr_drpy","name": "drpy(drpy)","type": 3,"api": "http://123.249.89.220:5705/libs/drpy.ym.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.249.89.220:5705/admin/view/drpy.js"},
         //{"key":"t4public","name":"🎬影视推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
         //{"key":"T4_douban","name": "🎬豆瓣推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0}, 
         {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
@@ -17,15 +17,8 @@
         {"key": "Bili","name": "🅱Bilibili","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
         //{"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
         {"key":"csp_CZSPP","name":"🏭厂长超清","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-        //{"key": "农民","name": "⛲农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
         {"key": "AppTT","name": "👁️2个TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-        {"key": "哔滴影视","name": "🐎哔滴影视","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
-        //{"key": "Bttoo","name": "👁Bttoo","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-        //{"key":"小苹果","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-        //{"key": "在线之家","name": "😹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-        //{"key": "Auete","name": "🚒Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-        //{"key": "Kuaikan","name": "👀快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-       
+        {"key": "哔滴影视","name": "🐎哔滴影视","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},  
         {"key":"zhaozy","name":"🍂原画","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":""},
         {"key": "Gitcafe","name":"📜小纸条〔4K〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
         {"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
