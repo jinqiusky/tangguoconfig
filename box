@@ -25,10 +25,10 @@
  
         
         //DRJS
-        //{"key":"酷云77(DR)","name":"🥉酷云77","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/酷云77.js"},
-        //{"key":"厂长资源(DR)","name":"🥉厂长超清","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/厂长资源.js"},
-        //{"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/360影视.js"},
-        //{"key":"莫扎兔(DR)","name":"🥉莫扎兔","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/莫扎兔.js"},
+        {"key":"酷云77(DR)","name":"🥉酷云77","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/酷云77.js"},
+        {"key":"厂长资源(DR)","name":"🥉厂长超清","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/厂长资源.js"},
+        {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/360影视.js"},
+        {"key":"莫扎兔(DR)","name":"🥉饭团","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/饭团.js"},
         {"key":"腾讯视频(DR)","name":"🥉腾讯视频","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/腾云驾雾.js"},
         {"key":"芒果TV(DR)","name":"🥉芒果TV","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/百忙无果.js"},
         {"key":"爱奇艺(DR)","name":"🥉爱奇艺","type":3,"api":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/libs/drpy2.js","ext":"https://gitcode.net/zhoujck1/dr_py/-/raw/master/js/奇珍异兽.js"},
