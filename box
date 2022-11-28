@@ -1,6 +1,6 @@
 { 
-    "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
-    //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar", 
+    //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
+    "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar", 
    
     // 直播 "epg":"https://diyp.112114.xyz/",
     "lives":[
