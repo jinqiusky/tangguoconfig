@@ -20,7 +20,7 @@
         {"key":"csp_CZSPP","name":"🏭厂长超清","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
         {"key": "AppTT","name": "👁️2个TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1}, 
         {"key": "哔滴影视","name": "🐎哔滴影视","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},  
-        {"key": "Gitcafe","name":"📜小纸条〔4K〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/Alitoken"},
+        {"key": "Gitcafe","name":"📜小纸条〔4K〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/Alitoken","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0830.jar"},
         //{"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
  
         
