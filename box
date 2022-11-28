@@ -2,16 +2,19 @@
     //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
     "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/Yoursmile.jar", 
    
-    // 直播 "epg":"https://diyp.112114.xyz/",
+    // 直播 "epg":"https://diyp.112114.xyz/",http://epg.51zmt.top:8000/api/diyp/ 
     "lives":[
-        {"epg":"https://epg.112114.xyz/","group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhvdWpjay90di9yYXcvbWFzdGVyL2xpdmU="]}]}
+        {"epg":"https://diyp.112114.xyz/",
+        "group":"redirect",
+        "channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhvdWpjay90di9yYXcvbWFzdGVyL2xpdmU="]}]}
     ],
 
     "sites":[  
-
         //首页推荐，搜索
         {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
         {"key":"csp_fant","name":"🍙饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+        {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
+        
         {"key":"酷云77(DR)","name":"🥉酷云77","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/酷云77.js"},
         {"key":"厂长资源(DR)","name":"🥉厂长超清","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/厂长资源.js"},
         {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/zhoujck/ros/raw/master/js/360影视.js"},
