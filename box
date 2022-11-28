@@ -11,21 +11,21 @@
 
     "sites":[  
         //首页推荐，搜索
-        {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
+        {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
         {"key":"csp_fant","name":"🍙饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
         {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
         
-        {"key":"酷云77(DR)","name":"🥉酷云77","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/酷云77.js"},
-        {"key":"厂长资源(DR)","name":"🥉厂长超清","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/厂长资源.js"},
-        {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/zhoujck/ros/raw/master/js/360影视.js"},
-        {"key":"腾讯视频(DR)","name":"🥉腾讯视频","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/腾云驾雾.js"},
-        {"key":"芒果TV(DR)","name":"🥉芒果TV","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/百忙无果.js"},
-        //{"key":"爱奇艺(DR)","name":"🥉爱奇艺","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/奇珍异兽.js"},
-        {"key":"优酷(DR)","name":"🥉优酷","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/优酷.js"},
-        {"key":"搜狗(DR)","name":"🥉搜狗","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/菜狗.js"},
-        {"key":"低端影视(DR)","name":"🥉DDYS","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/ddys.js"},
-        {"key":"快看(DR)","name":"🥉快看","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/快看.js"},
-        {"key": "drpy_js_AGE动漫","name": "🥉AGE动漫[JS]","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.min.js","ext": "https://gitee.com/zhoujck/ros/raw/master/js/AGE动漫.js"},
+        {"key":"酷云77(DR)","name":"🥉酷云77","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/酷云77.js"},
+        {"key":"厂长资源(DR)","name":"🥉厂长超清","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/厂长资源.js"},
+        {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/zhoujck/ros/raw/master/js/360影视.js"},
+        {"key":"腾讯视频(DR)","name":"🥉腾讯视频","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/腾云驾雾.js"},
+        {"key":"芒果TV(DR)","name":"🥉芒果TV","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/百忙无果.js"},
+        //{"key":"爱奇艺(DR)","name":"🥉爱奇艺","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/奇珍异兽.js"},
+        {"key":"优酷(DR)","name":"🥉优酷","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/优酷.js"},
+        {"key":"搜狗(DR)","name":"🥉搜狗","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/菜狗.js"},
+        {"key":"低端影视(DR)","name":"🥉DDYS","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/ddys.js"},
+        {"key":"快看(DR)","name":"🥉快看","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/快看.js"},
+        {"key": "drpy_js_AGE动漫","name": "🥉AGE动漫[JS]","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/ros/raw/master/js/AGE动漫.js"},
  
         //{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
         //{"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
