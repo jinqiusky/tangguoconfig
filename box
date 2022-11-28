@@ -31,7 +31,7 @@
         //{"key": "哔滴影视","name": "🐎哔滴影视","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
         {"key": "Bili","name": "🅱Bilibili","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
-        {"key":"Gitcafe","name":"🍃小纸条(4K资源)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":""},             
+        {"key":"Gitcafe","name":"🍃小纸条(4K资源)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7d78462c5bc24246b0c5400a3132a476","jar":""},             
         {"key": "AList","name": "🔪AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhoujck/tv/raw/master/JAR/Alist.jar","ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/Alist"}
     ],
 
