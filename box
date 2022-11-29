@@ -13,7 +13,7 @@
         //首页推荐，搜索
         {"key": "dr_drpy2","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
         {"key":"csp_fant","name":"👒饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-        {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
+        {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
        
         {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/zhoujck/ros/raw/master/js/360影视.js"},
         {"key":"腾讯视频(DR)","name":"🥉腾讯视频","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/腾云驾雾.js"},
