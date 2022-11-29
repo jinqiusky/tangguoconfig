@@ -16,7 +16,7 @@
         {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
         
         {"key":"酷云77(DR)","name":"🥉酷云77","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/酷云77.js"},
-        {"key":"厂长资源(DR)","name":"🥉厂长超清","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/厂长资源.js"},
+        //{"key":"厂长资源(DR)","name":"🥉厂长超清","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/厂长资源.js"},
         {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/zhoujck/ros/raw/master/js/360影视.js"},
         {"key":"腾讯视频(DR)","name":"🥉腾讯视频","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/腾云驾雾.js"},
         {"key":"芒果TV(DR)","name":"🥉芒果TV","type":3,"api":"https://gitee.com/zhoujck/ros/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/ros/raw/master/js/百忙无果.js"},
@@ -29,7 +29,7 @@
  
         //{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
         //{"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
-        //{"key":"csp_CZSPP","name":"🏭厂长超清","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+          {"key":"csp_CZSPP","name":"🏭厂长超清","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
         //{"key": "AppTT","name": "👁️2个TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1}, 
         //{"key": "哔滴影视","name": "🐎哔滴影视","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
