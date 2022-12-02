@@ -4,8 +4,7 @@
 {"type_name": "纪录片","type_id": "科学纪录片超清&duration=4&order=stow"},
 {"type_name": "田径","type_id": "田径超清&order=stow"},
 {"type_name": "运动","type_id": "运动教学超清&order=stow"},
-{"type_name": "小学课程","type_id": "小学课程&order=stow"},
-{"type_name": "其他","type_id": "王者荣耀教学"}
+{"type_name": "小学课程","type_id": "小学课程&order=stow"}
 ],
 
 "filter": {
