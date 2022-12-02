@@ -3,16 +3,17 @@
 "classes": [
 {"type_name": "纪录片","type_id": "科学纪录片超清&duration=4&order=stow"},
 {"type_name": "田径","type_id": "田径超清&order=stow"},
-{"type_name": "运动","type_id": "运动教学超清&order=stow"},
-{"type_name": "小学课程","type_id": "小学课程&order=stow"}
+//{"type_name": "运动","type_id": "运动教学超清&order=stow"},
+{"type_name": "语文","type_id": "人教版小学语文&order=stow"},
+{"type_name": "数学","type_id": "苏教版小学数学&order=stow"},
+{"type_name": "数学","type_id": "译林版小学英语&order=stow"}
 ],
 
 "filter": {
-"小学课程&order=stow": [ 
+"人教版小学语文&order=stow": [ 
 {"key": "tid","name": "分类","value":[
-{ "n": "一年级语文","v": "人教版1年级语文&order=totalrank" },
-{ "n": "一年级数学","v": "苏教版1年级数学&order=totalrank"},
-{ "n": "一年级英语","v": "译林版1年级英语&order=totalrank"}
+{ "n": "一年级语文上册","v": "人教版一年级语文上册" },
+{ "n": "一年级语文下册","v": "人教版一年级语文下册" }
 ]},
 {"key": "order","name": "排行","value": [
 {"n": "综合排序","v": "totalrank"},
@@ -27,7 +28,48 @@
 {"n": "30~60分钟","v": "3"},
 {"n": "10~30分钟","v": "2"},
 {"n": "10分钟以下", "v": "1"}
-]}],    
+]}],  
+
+"苏教版小学数学&order=stow": [ 
+{"key": "tid","name": "分类","value":[
+{ "n": "一年级数学上册","v": "苏教版一年级数学上册"},
+{ "n": "一年级数学下册","v": "苏教版一年级数学下册"}
+]},
+{"key": "order","name": "排行","value": [
+{"n": "综合排序","v": "totalrank"},
+{"n": "最多点击","v": "click"},
+{"n": "最新发布","v": "pubdate"},
+{"n": "最多收藏","v": "stow"},
+{"n": "最多弹幕", "v": "dm"}
+]},
+{"key": "duration","name": "时长","value": [
+{"n": "全部","v": "0"},
+{"n": "60分钟以上","v": "4"},
+{"n": "30~60分钟","v": "3"},
+{"n": "10~30分钟","v": "2"},
+{"n": "10分钟以下", "v": "1"}
+]}],  
+
+"译林版小学英语&order=stow": [ 
+{"key": "tid","name": "分类","value":[
+{ "n": "一年级英语上册","v": "译林版一年级英语上册"},
+{ "n": "一年级英语下册","v": "译林版一年级英语下册"}
+]},
+{"key": "order","name": "排行","value": [
+{"n": "综合排序","v": "totalrank"},
+{"n": "最多点击","v": "click"},
+{"n": "最新发布","v": "pubdate"},
+{"n": "最多收藏","v": "stow"},
+{"n": "最多弹幕", "v": "dm"}
+]},
+{"key": "duration","name": "时长","value": [
+{"n": "全部","v": "0"},
+{"n": "60分钟以上","v": "4"},
+{"n": "30~60分钟","v": "3"},
+{"n": "10~30分钟","v": "2"},
+{"n": "10分钟以下", "v": "1"}
+]}],
+
 "科学纪录片超清&duration=4&order=stow": [ 
 {"key": "tid","name": "分类","value":[
 { "n": "天文","v": "天文科学探索&duration=4&order=stow" },
