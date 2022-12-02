@@ -6,7 +6,7 @@
 //{"type_name": "运动","type_id": "运动教学超清&order=stow"},
 {"type_name": "语文","type_id": "人教版小学语文&order=stow"},
 {"type_name": "数学","type_id": "苏教版小学数学&order=stow"},
-{"type_name": "数学","type_id": "译林版小学英语&order=stow"}
+{"type_name": "英语","type_id": "译林版小学英语&order=stow"}
 ],
 
 "filter": {
