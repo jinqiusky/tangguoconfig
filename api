@@ -48,13 +48,18 @@
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "📱网络搜集⑥〔多条线路〕"
         },
-          {
-            "url": "https://gitee.com/zhoujck/tv/raw/master/TEXT/box",
-            "name": "📱网络搜集8〔多条线路〕"
-        }, 
+ 
         {
             "url": "http://www.dmtv.ml/mao/mao.php?type=single",
             "name": "📱网络搜集⑦〔多条线路〕"
-        }  
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "your smail"
+        },
+        {
+            "url": "https://agit.ai/zhoujck/tv/raw/branch/master/EXT/ET",
+            "name": "E18"
+        }
     ]
 }
