@@ -4,7 +4,7 @@
 {"type_name": "语文","type_id": "人教版小学语文&order=stow"},
 {"type_name": "数学","type_id": "苏教版小学数学&order=stow"},
 {"type_name": "英语","type_id": "译林版小学英语&order=stow"},    
-{"type_name": "历史","type_id": "历史纪录片&duration=4&order=stow&producer_id=-1&style_id=10033&release_date=-1&season_status=-1&order=2"},
+{"type_name": "历史","type_id": "历史纪录片&duration=4&order=2&producer_id=-1&style_id=10033&release_date=-1&season_status=-1"},
 {"type_name": "地理","type_id": "地理纪录片&duration=4&order=stow"},
 {"type_name": "宇宙","type_id": "宇宙纪录片&duration=4&order=stow&style_id=10068&release_date=-1&season_status=-1&order=2"},
 {"type_name": "自然","type_id": "自然纪录片&duration=4&order=stow"},
