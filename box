@@ -28,7 +28,7 @@
         {"key":"低端影视(DR)","name":"🥉DDYS","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/ddys.js"},
         {"key":"快看(DR)","name":"🥉快看","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/快看.js"},
         {"key": "drpy2_js_AGE动漫","name": "🥉AGE动漫[JS]","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/AGE动漫.js"},        
-        {"key":"Gitcafe","name":"🍃小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/Alitoken","jar":""},    
+        {"key":"Gitcafe","name":"🍃小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":""},    
         //{"key":"Gitcafe","name":"🍃小纸条(4K资源)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0830.jar"},
         {"key": "盤搜","name": "👒盤搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;3d99b9f6015e1779941725bbb179eb5f"}      ],
 
