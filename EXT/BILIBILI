@@ -1,12 +1,14 @@
 {
 
 "classes": [
-{"type_name": "纪录片","type_id": "科学纪录片超清&duration=4&order=stow"},
-{"type_name": "田径","type_id": "田径超清&order=stow"},
-//{"type_name": "运动","type_id": "运动教学超清&order=stow"},
 {"type_name": "语文","type_id": "人教版小学语文&order=stow"},
 {"type_name": "数学","type_id": "苏教版小学数学&order=stow"},
-{"type_name": "英语","type_id": "译林版小学英语&order=stow"}
+{"type_name": "英语","type_id": "译林版小学英语&order=stow"},    
+{"type_name": "历史","type_id": "历史纪录片&duration=4&order=stow"},
+{"type_name": "地理","type_id": "地理纪录片&duration=4&order=stow"},
+{"type_name": "宇宙","type_id": "宇宙纪录片&duration=4&order=stow&style_id=10068&release_date=-1&season_status=-1&order=2"},
+{"type_name": "自然","type_id": "自然纪录片&duration=4&order=stow"},
+{"type_name": "田径","type_id": "田径超清&order=stow"},
 ],
 
 "filter": {
@@ -70,19 +72,19 @@
 {"n": "10分钟以下", "v": "1"}
 ]}],
 
-"科学纪录片超清&duration=4&order=stow": [ 
-{"key": "tid","name": "分类","value":[
-{ "n": "天文","v": "天文科学探索&duration=4&order=stow" },
-{ "n": "太阳系","v": "太阳系科学&duration=4&order=stow" },
-{ "n": "银河系","v": "银河系科学&duration=4&order=stow" },
-{ "n": "地理","v": "世界地理&duration=4&order=stow"},
-{ "n": "中国历史","v": "中国人文历史&duration=4&order=stow"},
-{ "n": "世界历史","v": "世界人文历史&duration=4&order=stow"},
-{"n": "自然","v": "自然科学&duration=4&order=stow" },
-{"n": "BBC","v": "BBC纪录片&duration=4&order=stow" },
-{"n": "CCTV","v": "央视记录片&duration=4&order=stow" }
-]}
-],
+"宇宙纪录片&duration=0&order=stow&style_id=10068&release_date=-1&season_status=-1&order=2": [ 
+{"key": "producer_id","name": "出品","value": [
+{"n": "BBC","v": "1"},
+{"n": "央视","v": "4"},
+{"n": "探索频道","v": "7"},
+{"n": "国家地理","v": "14"},
+{"n": "NHK", "v": "2"},
+{"n": "自制K", "v": "9"},
+]
+}],
+
+
+
 "田径超清&order=stow": [ 
 {"key": "tid","name": "分类",
 "value": [
@@ -97,41 +99,13 @@
 {"n": "10~30分钟","v": "2"},
 {"n": "10分钟以下", "v": "1"}
 ]}],
+
 "运动教学超清&order=stow": [ 
 {"key": "tid","name": "分类",
 "value": [
 { "n": "跳绳","v": "跳绳超清&order=stow" },
 { "n": "有氧","v": "有氧超清&order=stow"},
 {"n": "篮球","v": "篮球技巧教学&order=stow" }
-]},
-{"key": "duration","name": "时长","value": [
-{"n": "全部","v": "0"},
-{"n": "60分钟以上","v": "4"},
-{"n": "30~60分钟","v": "3"},
-{"n": "10~30分钟","v": "2"},
-{"n": "10分钟以下", "v": "1"}
-]}],
-"王者荣耀教学": [ 
-{"key": "tid","name": "分类",
-"value": [
-{ "n": "木兰","v": "浩克木兰教学&order=stow" },
-{ "n": "关羽","v": "明眸关羽教学&order=stow"},
-
-{"n": "","v": "" }
-]},
-{"key": "duration","name": "时长","value": [
-{"n": "全部","v": "0"},
-{"n": "60分钟以上","v": "4"},
-{"n": "30~60分钟","v": "3"},
-{"n": "10~30分钟","v": "2"},
-{"n": "10分钟以下", "v": "1"}
-]}],
-"健身超清": [ 
-{"key": "tid","name": "分类",
-"value": [
-{ "n": "颈椎","v": "颈椎超清" },
-{ "n": "有氧","v": "有氧超清"},
-{"n": "Hiit","v": "hitt超清" }
 ]},
 {"key": "duration","name": "时长","value": [
 {"n": "全部","v": "0"},
