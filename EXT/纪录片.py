@@ -49,7 +49,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return rsp.cookies
 	def categoryContent(self,tid,pg,filter,extend):		
 		result = {}
-		url = 'https://api.bilibili.com/x/web-interface/search/type?search_type=documentary&keyword={0}&duration=4&page={1}producer_id=-1&release_date=-1&season_status=-1'.format(tid,pg)
+		url = ''https://api.bilibili.com/pgc/season/index/result?order=1&season_status=-1&style_id=-1&sort=0&area=-1&pagesize=20&type=1&st=3&season_type={0}&page={1}''.format(tid,pg)
 		if len(self.cookies) <= 0:
 			self.getCookie()
 		rsp = self.fetch(url,cookies=self.cookies)
