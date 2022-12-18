@@ -72,16 +72,7 @@
 {"n": "10分钟以下", "v": "1"}
 ]}],
 
-"宇宙纪录片&duration=0&order=stow&style_id=10068&release_date=-1&season_status=-1&order=2": [ 
-{"key": "producer_id","name": "出品","value": [
-{"n": "BBC","v": "1"},
-{"n": "央视","v": "4"},
-{"n": "探索频道","v": "7"},
-{"n": "国家地理","v": "14"},
-{"n": "NHK", "v": "2"},
-{"n": "自制K", "v": "9"},
-]
-}],
+
 
 
 
