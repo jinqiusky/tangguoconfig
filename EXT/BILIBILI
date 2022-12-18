@@ -8,7 +8,7 @@
 {"type_name": "地理","type_id": "地理纪录片&duration=4&order=stow"},
 {"type_name": "宇宙","type_id": "宇宙纪录片&duration=4&order=stow&style_id=10068&release_date=-1&season_status=-1&order=2"},
 {"type_name": "自然","type_id": "自然纪录片&duration=4&order=stow"},
-{"type_name": "田径","type_id": "田径超清&order=stow"},
+{"type_name": "田径","type_id": "田径超清&order=stow"}
 ],
 
 "filter": {
