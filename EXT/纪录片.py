@@ -63,7 +63,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
 	def categoryContent(self,tid,pg,filter,extend):		
 		result = {}
-		url = 'https://api.bilibili.com/pgc/season/index/result?order=2&season_status=-1&style_id={0}&sort=0&area=-1&pagesize=20&type=1&st=3&season_type=3&page={1}'.format(tid,pg)
+		url = 'https://api.bilibili.com/pgc/season/index/result?order=1&season_status=-1&style_id={0}&sort=0&area=-1&pagesize=20&type=1&st=3&season_type=3&page={1}'.format(tid,pg)
 		if len(self.cookies) <= 0:
 			self.getCookie()
 		rsp = self.fetch(url, cookies=self.cookies)
