@@ -46,7 +46,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	cookies = ''
 	def getCookie(self):
 		#在cookies_str中填入会员或大会员cookie，以获得更好的体验
-		cookies_str = "innersign=0; buvid3=606BE156-AE37-AEA8-7052-9DA0B21766E776404infoc; b_nut=1663302976; i-wanna-go-back=-1; b_ut=7; b_lsid=4106252F6_18344933A90; _uuid=586AAEB7-6B88-A691-F7AC-95C27E57F53C43036infoc; buvid4=B6FF1449-4361-1C76-DEFC-4AFCA1777B7E78304-022091612-PdJr0jKE6N5TamfAEX9uACD1RXvklspbNdlcIQEFLMu0d9wS3G3sdA%3D%3D; buvid_fp=2a9b54d5e06aa54293dc7544e000552d"
+		cookies_str = "buvid3=B655B00C-81DD-06AA-5DF6-72D1D52F71AC81071infoc; b_nut=1669877881; _uuid=2E410E176-E9D7-EDB2-7F5C-FE75C8979D2D83699infoc; buvid4=8BF139C4-8519-2B72-8280-43CB965DBD5891843-022120114-eFmjOr2kdfzhJgCixneXlA%3D%3D; rpdid=|(J~RllJ)~Rk0J'uYYm)~mkR~; CURRENT_QUALITY=16; innersign=0; i-wanna-go-back=-1; b_ut=7; bsource=search_bing; CURRENT_BLACKGAP=0; PVID=3; b_lsid=103BEB9F5_18523AC0DB6; CURRENT_FNVAL=4048; fingerprint=df5b970f5be95db44d0ce436e17386c0; buvid_fp_plain=undefined; SESSDATA=edb9e266%2C1686895206%2C864c2%2Ac2; bili_jct=c39670dd5cbde1fb2e10d931a195bf82; DedeUserID=701168335; DedeUserID__ckMd5=7219483457203958; buvid_fp=d461f108044b17ed806fd6f35b7005e9; sid=815aiq16"
 		cookies_dic = dict([co.strip().split('=') for co in cookies_str.split(';')])
 		rsp = session()
 		cookies_jar = utils.cookiejar_from_dict(cookies_dic)
