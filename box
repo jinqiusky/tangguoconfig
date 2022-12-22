@@ -5,10 +5,29 @@
     "spider":"https://gitee.com/zhoujck/tv/raw/master/JAR/Yoursmile.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7", 
    
     // 直播 "epg":"https://diyp.112114.xyz/",http://epg.51zmt.top:8000/api/diyp/ 
-    "lives":[
-        {"epg":"https://diyp.112114.xyz/","group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhvdWpjay90di9yYXcvbWFzdGVyL2xpdmU="]}]}
-    ],
+ //   "lives":[
+  //      {"epg":"https://diyp.112114.xyz/","group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhvdWpjay90di9yYXcvbWFzdGVyL2xpdmU="]}]}
+  //  ],
 
+"lives": [
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "https://gitee.com/zhoujck/tv/raw/master/live",
+      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "",
+      "ua": ""
+    },
+    {
+      "name": "M3U",
+      "type": 0,
+      "url": "https://github.com/live.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}",
+      "logo": "",
+      "ua": ""
+    }
+  ]
+}
     "sites":[  
         //首页推荐，搜索
         {"key": "dr_drpy2","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
