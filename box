@@ -26,8 +26,8 @@
       "logo": "",
       "ua": ""
     }
-  ]
-}
+  ],
+
     "sites":[  
         //首页推荐，搜索
         {"key": "dr_drpy2","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
