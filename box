@@ -14,7 +14,7 @@
       "name": "TXT",
       "type": 0,
       "url": "https://gitee.com/zhoujck/tv/raw/master/live",
-      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}",
       "logo": "",
       "ua": ""
     },
