@@ -21,7 +21,7 @@
     {
       "name": "M3U",
       "type": 0,
-      "url": "https://github.com/live.m3u",
+      "url": "https://gitee.com/zhoujck/tv/raw/master/live.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}",
       "logo": "",
       "ua": ""
