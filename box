@@ -10,14 +10,14 @@
   //  ],
 
 "lives": [
-    {
-      "name": "TXT",
-      "type": 0,
-      "url": "https://gitee.com/zhoujck/tv/raw/master/live",
-      "epg": "https://epg.112114.xyz/?ch={name}",
-      "logo": "",
-      "ua": ""
-    },
+   // {
+    //  "name": "TXT",
+    //  "type": 0,
+    //  "url": "https://gitee.com/zhoujck/tv/raw/master/live",
+    //  "epg": "https://epg.112114.xyz/?ch={name}",
+    //  "logo": "",
+    //  "ua": ""
+   // },
     {
       "name": "M3U",
       "type": 0,
