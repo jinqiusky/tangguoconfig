@@ -4,24 +4,16 @@
     //"spider":" https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
     "spider":"https://gitee.com/zhoujck/tv/raw/master/JAR/Yoursmile.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7", 
    
-    // 直播 "epg":"https://diyp.112114.xyz/",http://epg.51zmt.top:8000/api/diyp/ 
- //   "lives":[
-  //      {"epg":"https://diyp.112114.xyz/","group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhvdWpjay90di9yYXcvbWFzdGVyL2xpdmU="]}]}
-  //  ],
+// 直播 "epg":"https://diyp.112114.xyz/",http://epg.51zmt.top:8000/api/diyp/ 
+//   "lives":[
+//      {"epg":"https://diyp.112114.xyz/","group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhvdWpjay90di9yYXcvbWFzdGVyL2xpdmU="]}]}
+//  ],
 
 "lives": [
-   // {
-    //  "name": "TXT",
-    //  "type": 0,
-    //  "url": "https://gitee.com/zhoujck/tv/raw/master/live",
-    //  "epg": "https://epg.112114.xyz/?ch={name}",
-    //  "logo": "",
-    //  "ua": ""
-   // },
     {
-      "name": "M3U",
+      "name": "TXT",
       "type": 0,
-      "url": "https://gitee.com/zhoujck/tv/raw/master/live.m3u",
+      "url": "https://gitee.com/zhoujck/tv/raw/master/live",
       "epg": "https://epg.112114.xyz/?ch={name}",
       "logo": "",
       "ua": ""
