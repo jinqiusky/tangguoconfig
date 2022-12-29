@@ -1,20 +1,8 @@
-{ 
-    //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
-    //"spider":" https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+{ //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
     "spider":"https://gitee.com/zhoujck/tv/raw/master/JAR/Yoursmile.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7", 
-   
-// 直播 "epg":"https://diyp.112114.xyz/",http://epg.51zmt.top:8000/api/diyp/ 
-//   "lives":[
-//      {"epg":"https://diyp.112114.xyz/","group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhvdWpjay90di9yYXcvbWFzdGVyL2xpdmU="]}]}
-//  ],
 
     "lives": [
-        {
-        "name": "TXT",
-        "type": 0,
-        "url": "https://gitee.com/zhoujck/tv/raw/master/live",
-        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        }
+        {"name": "live","type": 0,"url": "https://gitee.com/zhoujck/tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
     ],
 
 
@@ -43,23 +31,11 @@
          {"name":"聚合","type":"3","url":"Demo"},
          {"name":"并发","type":"2","url":"Parallel"},
          {"name":"轮询","type":"2","url":"Sequence"},
-         {"name":"☑ckplayer解析","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-         {"name":"☑虾米解析","type":0,"url":"https://dm.xmflv.com:4433/?url="},
-         {"name":"☑parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-         {"name":"☑OK解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
-         {"name":"☑M2090","type":0,"url":"https://m2090.com/?url="},
-         {"name":"☑托乌解析","type":0,"url":"https://jx.ppjbk.cn/?url="},
-         {"name":"☑夜幕解析","type":0,"url":"https://www.yemu.xyz/?url="},
-         {"name":"☑618G解析","type":0,"url":"https://jx.618g.com/?url="},
-         {"name":"☑全民解析","type":0,"url":"http://api.wpsseo.cn/?v="},
-         {"name":"☑猪蹄解析","type":0,"url":"https://jx.iztyy.com/svip/?url="},
-         {"name":"☑铭人解析","type":0,"url":"https://parse.123mingren.com/?url="},
-         {"name":"☑BL解析","type":0,"url":"https://svip.bljiex.cc/?v="},
          {"name": "江湖解析","type": 1,"url": "http://45.248.10.163:4433/json.php?wap=0&url="},
          {"name":"呆萌1","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-         {"name":"呆萌2","type":0,"url":"http://jx.nikucms.com/pc/index6.php?url="},
-         {"name":"呆萌3","type":0,"url":"http://91fanli.top/m3u8/?url="}
-        
+         {"name":"呆萌2","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+         {"name":"呆萌3","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+         {"name": "OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="}        
      ],
 
      "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
