@@ -14,7 +14,7 @@
         {"key":"py_纪录片","name":"🅱哔站纪录片","type":3,"api":"py_bilimd","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/纪录片.py"},     
         {"key":"py_bilimd","name":"🅱哔站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/哔站影视.py"},     
 
-        {"key": "AList","name": "🍃AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhoujck/tv/raw/master/JAR/Alist.jar","ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/Alist"},     
+        {"key": "AList","name": "🍃AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "","ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/Alist",,"jumpDetail":0,"reversePlay":0,"enable":1},     
         {"key":"csp_XBPQ饭团","name":"🥉饭团(HDX)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/饭团.json"},
         {"key":"csp_biubiu_饭团","name":"🍙饭团影视(SP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/饭团"},
         //{"key":"csp_fant","name":"🥉饭团(HD)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
