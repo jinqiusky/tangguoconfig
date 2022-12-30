@@ -21,6 +21,7 @@
 
         {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/360影视.js"}, 
         {"key":"drpy_js_低端影视","name":"🥉低端影视","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/DDYS.js"},
+        {"key":"drpy_js_低端影视","name":"🥉饭团影视","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/饭团影视.js"},
         {"key":"快看(DR)","name":"🥉快看影视","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/快看.js"},
         {"key": "drpy22_js_AGE动漫","name": "🥉AGE动漫","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/AGE动漫.js"},        
         {"key":"Gitcafe","name":"🍃纸条(4K)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
