@@ -10,22 +10,25 @@
     "sites":[  
         {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
         
+        {"key":"csp_Kunyu77","name":"👒酷云(极速）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":""},  
+        {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"SP360","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+        {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_AppTT","name":"🆗图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
+        {"key":"293视频","name":"🥉293(HD)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/293.jar"},   
+        {"key":"csp_biubiu_dadagui","name":"🥉达达龟(HD)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dadagui.json"},
+        {"key":"csp_XBPQ饭团","name":"🥉饭团(HDX)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/饭团.json"},
+        {"key":"csp_biubiu_饭团","name":"🍙饭团影视(SP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/饭团"},
+       
+        {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/360影视.js"}, 
+        {"key":"快看(DR)","name":"🥉快看影视","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/快看.js"},
+        {"key": "drpy22_js_AGE动漫","name": "🥉AGE动漫","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/AGE动漫.js"},   
+        
         {"key": "Bili","name": "🅱哔站学习","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
         {"key":"py_纪录片","name":"🅱哔站纪录片","type":3,"api":"py_bilimd","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/纪录片.py"},     
         {"key":"py_bilimd","name":"🅱哔站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/哔站影视.py"},     
 
-        {"key":"csp_XBPQ饭团","name":"🥉饭团(HDX)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/饭团.json"},
-        {"key":"csp_biubiu_饭团","name":"🍙饭团影视(SP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/zhoujck/tv/raw/master/EXT/饭团"},
-        {"key":"csp_fant","name":"🥉饭团(HD)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-        {"key":"csp_Kunyu77","name":"👒酷云(极速）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":""},  
-        {"key":"293视频","name":"🥉293(HD)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/293.jar"},   
-        {"key":"csp_biubiu_dadagui","name":"🥉达达龟(HD)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dadagui.json"},
 
-        {"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/360影视.js"}, 
-        {"key":"drpy_js_低端影视","name":"🥉低端影视","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/DDYS.js"},
-        {"key":"快看(DR)","name":"🥉快看影视","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/快看.js"},
-        {"key": "drpy22_js_AGE动漫","name": "🥉AGE动漫","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/AGE动漫.js"},   
-        
         {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
         {"key":"Gitcafe","name":"🍃小纸条(4K)","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
         {"key":"Yisou","name":"🍃一搜","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},    
