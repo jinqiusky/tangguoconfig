@@ -1,6 +1,6 @@
 {   //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
-    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F661F61350BBA840E737D7A64EDC0F44",
-    //"spider":"https://gitee.com/zhoujck/tv/raw/master/JAR/Yoursmile.jar", 
+    //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F661F61350BBA840E737D7A64EDC0F44",
+    "spider":"https://gitee.com/zhoujck/tv/raw/master/JAR/Yoursmile.jar", 
 
     "lives": [
         {"name": "live","type": 0,"url": "https://gitee.com/zhoujck/tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
