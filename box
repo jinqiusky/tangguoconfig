@@ -38,7 +38,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":""
+            "jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8977DB03D3374537FDAD0C396BB1FE99"
         },
         {
             "key":"csp_AppTT",
