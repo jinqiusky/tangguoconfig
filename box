@@ -18,14 +18,14 @@
 {"key":"csp_biubiu_dadagui","name":"🥉达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dadagui.json"},
 {"key":"csp_XBPQ饭团","name":"🥉饭团","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/饭团.json"},
            
-//{"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/360影视.js"}, 
-//{"key":"快看(DR)","name":"🥉快看影视","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/快看.js"},
+{"key": "dr_360影视","name": "🥉360影视","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/360影视.js"}, 
+{"key":"快看(DR)","name":"🥉快看影视","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/快看.js"},
 {"key": "drpy_AGE动漫","name": "🥉AGE动漫","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/AGE动漫.js"},   
 
 {"key":"腾讯视频(DR)","name":"🥉腾讯视频(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/腾云驾雾.js"},
 {"key":"芒果TV(DR)","name":"🥉芒果TV(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/百忙无果.js"},
 {"key":"爱奇艺(DR)","name":"🥉爱奇艺(JS)","type":3, "searchable":0, "quickSearch":0,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/奇珍异兽.js"},
-//{"key":"优酷(DR)","name":"🥉优酷(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/优酷.js"},
+{"key":"优酷(DR)","name":"🥉优酷(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/优酷.js"},
 {"key":"搜狗(DR)","name":"🥉搜狗(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/菜狗.js"},
 
 {"key": "Bili","name": "🅱哔站学习","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "https://gitee.com/zhoujck/tv/raw/master/EXT/BILIBILI"},
