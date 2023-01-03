@@ -12,6 +12,7 @@
 {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"},              
             
 {"key":"csp_Kunyu77","name":"👒酷云(极速）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":""},  
+{"key":"csp_fant","name":"🥉饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🥉图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 {"key":"SP360","name":"🥉360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"快看","name":"🥉快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
