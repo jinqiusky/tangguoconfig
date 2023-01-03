@@ -19,11 +19,22 @@
             "filterable":1,
             "ext":"https://gitee.com/zhoujck/tv/raw/master/JS/豆瓣"
         },
+        
         {
             "key":"csp_Kunyu77",
             "name":"👒酷云(极速）",
             "type":3,
             "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":""
+        },
+        {
+            "key":"csp_fant",
+            "name":"饭团影视",
+            "type":3,
+            "api":"csp_Fantuan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
