@@ -25,6 +25,14 @@
             "name": "🌝梅零落"
         }, 
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🌝FongMi"
+        }, 
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+            "name": "🌝FongMi18"
+        }, 
+        {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "📱网络搜集①〔多条线路〕"
         },
