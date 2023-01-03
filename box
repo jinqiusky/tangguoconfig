@@ -34,8 +34,8 @@
     
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"Gitcafe","name":"🍃小纸条(4K)","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":""},
-{"key":"Yisou","name":"🍃一搜","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},    
-{"key": "盤搜","name": "🍃盤搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"}     
+{"key":"Yisou","name":"🍃一搜","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar":""},    
+{"key": "盤搜","name": "🍃盤搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/tok","jar":""}     
 ],
     
 "parses": [
