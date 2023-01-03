@@ -3,7 +3,7 @@
 "spider": "./JAR/xo.txt;md5;bdde7063cf2a724c058ba972c752afcb",
     
 "lives": [
-{"name": "live","type": 0,"url": "./tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+{"name": "live","type": 0,"url": "https://gitee.com/zhoujck/tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
     
     
