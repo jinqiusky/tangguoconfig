@@ -1,6 +1,6 @@
 {   
-//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/yoursmail.jar;md5;F661F61350BBA840E737D7A64EDC0F44",
-"spider": "./JAR/xo.txt;md5;bdde7063cf2a724c058ba972c752afcb",
+"spider": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar;md5;97ee205764c3c737804f48f97b3f7be6",
+//"spider": "./JAR/xo.txt;md5;bdde7063cf2a724c058ba972c752afcb",
     
 "lives": [
 {"name": "live","type": 0,"url": "https://gitee.com/zhoujck/tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
