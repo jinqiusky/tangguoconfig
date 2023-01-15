@@ -1,5 +1,6 @@
 {   
-"spider": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar;md5;97ee205764c3c737804f48f97b3f7be6",
+//"spider": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar;md5;97ee205764c3c737804f48f97b3f7be6",
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
 //"spider": "./JAR/xo.txt;md5;bdde7063cf2a724c058ba972c752afcb",
     
 "lives": [
