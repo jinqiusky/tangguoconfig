@@ -55,7 +55,11 @@
     {
       "name": "9T",
       "server": "https://drive.9t.ee"
-    },       
+    },
+    {
+      "name": "木偶",
+      "server": "https://www.kugutsu.ml"
+    }       
     {
       "name": "資源小站",
       "server": "https://960303.xyz"
