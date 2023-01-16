@@ -6,8 +6,7 @@
 "lives": [
 {"name": "live","type": 0,"url": "https://gitee.com/zhoujck/tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
-    
-    
+        
 "sites":[ 
 {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./JS/豆瓣"},                         
 {"key":"t4public","name":"🎬豆瓣推荐","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"},
