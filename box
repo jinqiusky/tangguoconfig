@@ -10,7 +10,7 @@
     
 "sites":[ 
 {"key": "dr_drpy","name": "🎬影视推荐","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./JS/豆瓣"},                         
-
+{"key":"t4public","name":"🎬豆瓣推荐","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"},
 {"key":"csp_Kunyu77","name":"👒酷云(极速）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"}, 
 {"key":"Lgyy","name":"🥉蓝光(超清）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
 {"key":"IKan","name":"🥉爱看（超清）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
