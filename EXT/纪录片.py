@@ -23,7 +23,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-            "综合": "-1",
+            "全部": "-1",
 	        "历史": "10033",
             "人文": "10065",
 		    "宇宙": "10068",
