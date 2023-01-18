@@ -51,7 +51,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	cookies = ''
 	def getCookie(self):
 		#在cookies_str中填入会员或大会员cookie，以获得更好的体验
-		cookies_str = "DedeUserID=3493076028885079;DedeUserID__ckMd5=60a8757a1f4d6ae9;SESSDATA=42b8ada6,1683277266,4bd05*b2;bili_jct=2dbe39aea02b41324395630a24d4775f;"
+		cookies_str = "DedeUserID=701168335; DedeUserID__ckMd5=7219483457203958;SESSDATA=21c90a28%2C1689127467%2C278b3%2A11; bili_jct=eb5bcfb0844309e5eacfea448a1971e6;"
 		cookies_dic = dict([co.strip().split('=') for co in cookies_str.split(';')])
 		rsp = session()
 		cookies_jar = utils.cookiejar_from_dict(cookies_dic)
