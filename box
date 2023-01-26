@@ -1,5 +1,5 @@
 {   
-"spider": "https://gitee.com/zhoujck/store/raw/master/jar/cs.jar;md5;a5e5361e0955fa99715b720aa13a5fce",    
+"spider": "https://gitee.com/zhoujck/tv/raw/master/JAR/cs.jar;md5;a5e5361e0955fa99715b720aa13a5fce",    
 
 "lives": [
 {"name": "live","type": 0,"url": "https://gitee.com/zhoujck/tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
