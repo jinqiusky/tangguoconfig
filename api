@@ -19,11 +19,7 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🌝FongMi"
-        }, 
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "🌝FongMi18"
-        },         
+        },        
         {
             "url": "https://饭太硬.ga/x/o.json",
             "name": "📱网络搜集〔饭太硬〕"
@@ -37,12 +33,12 @@
             "name": "📱网络搜集〔唐三〕"
         },
         {
-            "url": "hhttps://xn--m7r412advb92j21st65a.tk/pz.json",
-            "name": "📱网络搜集〔神器线路〕"
-        },
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+            "name": "📱网络搜集(18+)"
+        }, 
         {
-            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
-            "name": "📱网络搜集⑦〔多条线路〕"
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "📱网络搜集〔俊于〕"
         }
     ]
 }
