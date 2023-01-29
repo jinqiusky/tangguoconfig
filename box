@@ -15,7 +15,7 @@
 {"key":"IKan","name":"🥉爱看(超清)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key":"Czsapp","name":"🥉厂长(超清)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
 {"key":"LiteApple","name":"🥉苹果(超清)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
-{"key":"Kuaikan","name":"🥉快看(超清)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
+//{"key":"Kuaikan","name":"🥉快看(超清)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
 {"key":"csp_Kunyu77","name":"👒酷云(极速)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"}, 
 {"key":"Dm84","name":"🥉动漫","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
 {"key":"Gitcafe","name":"🍃纸条(4K)","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
