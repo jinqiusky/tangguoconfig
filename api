@@ -27,16 +27,7 @@
         {
             "url": "https://hutool.ml/tang",
             "name": "📱网络〔唐三〕"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-            "name": "📱网络 (18+)"
-        }, 
-        
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "📱网络 (18+1)"
-        },        
+        },       
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "📱网络〔俊于〕"
