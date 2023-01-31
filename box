@@ -1,10 +1,10 @@
 {   
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159",    
+"spider": "https://gitee.com/zhoujck/store/raw/master/jar/cs.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159",    
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
 "lives": [
-{"name": "live","type": 0,"url": "https://gitee.com/zhoujck/tv/raw/master/live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+{"name": "live","type": 0,"url": "./live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
         
 "sites":[ 
