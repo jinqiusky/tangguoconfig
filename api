@@ -28,10 +28,10 @@
             "url": "https://hutool.ml/tang",
             "name": "📱网络搜集〔唐三〕"
         },
-//        {
-//            "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/blob/master/9918.json",
-//            "name": "📱网络搜集(18+)"
-//        }, 
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/blob/master/9918.json",
+            "name": "📱网络搜集(18+)"
+        }, 
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "📱网络搜集〔俊于〕"
