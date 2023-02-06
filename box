@@ -8,8 +8,8 @@
 ],
         
 "sites":[ 
-{"key":"t4public","name":"🎬影视推荐(长按搜索)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"},
-{"key": "dr_drpy","name": "🎬影视推荐(备用1)","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./JS/豆瓣"},                         
+{"key": "dr_drpy","name": "🎬影视推荐(长按搜索)","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./JS/豆瓣"},                         
+{"key":"t4public","name":"🎬影视推荐(备用1)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"},
 {"key":"js豆瓣","name":"🎬影视推荐(备用2)","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_AppTT","name":"🥉图图(超清)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"世界杯","name":"🥉一起看(超清)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
