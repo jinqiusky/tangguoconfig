@@ -1,5 +1,5 @@
 {   
-"spider": "https://gitee.com/zhoujck/store/raw/master/jar/cs.jar;md5;b061493a35694916616fb2903324cfdf",    
+"spider": "./jar/cs.jar;md5;b061493a35694916616fb2903324cfdf",    
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
@@ -20,22 +20,12 @@
 {"key":"csp_Kunyu77","name":"👒酷云(极速)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"}, 
 {"key":"Dm84","name":"🥉动漫","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
 
-//{"key": "drpy_AGE动漫","name": "🥈AGE动漫","type": 3,"api": "https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext": "https://gitee.com/zhoujck/dr_py/raw/master/js/AGE动漫.js"},   
-//{"key":"腾讯视频(DR)","name":"🥈腾讯视频(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/腾云驾雾.js"},
-//{"key":"芒果TV(DR)","name":"🥈芒果TV(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/百忙无果.js"},
-//{"key":"爱奇艺(DR)","name":"🥈爱奇艺(JS)","type":3, "searchable":0, "quickSearch":0,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"./dr_py/raw/master/js/奇珍异兽.js"},
-//{"key":"优酷(DR)","name":"🥈优酷(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/优酷.js"},
-//{"key":"搜狗(DR)","name":"🥈搜狗(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/zhoujck/dr_py/raw/master/js/菜狗.js"},
-//{"key":"drpy_js_test","name":"🥈测试(JS)","type":3,"api":"https://gitee.com/zhoujck/dr_py/raw/master/libs/drpy2.js","ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/0test.js"},	
-
 {"key": "Bili","name": "🅱哔站学习","type":3,"api":"csp_Bili", "searchable":0, "quickSearch":0, "filterable":1,"ext": "./EXT/BILIBILI","jar":"./JAR/xo1.txt;md5;a4a90401116d9f1f6a3358c63167ff1f"},
 {"key":"py_纪录片","name":"🅱哔站纪录片","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/纪录片.py"},     
 {"key":"py_bilimd","name":"🅱哔站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/哔站影视.py"},     
 
 {"key":"Gitcafe","name":"🍃纸条(4K)","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},    
 {"key":"Yisou","name":"🍃一搜","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},    
-//{"key": "盤搜","name": "🍃盤搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/tok"},     
-//{"key":"UpYun","name":"🍃云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"}
 {"key":"csp_AList","name":"🍃AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/Alist"}
 ],
     
