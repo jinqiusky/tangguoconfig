@@ -1,10 +1,25 @@
 {
   "drives": [
     {"name": "小雅","server": "http://alist.xiaoya.pro"},
-    {"name":"晴园","server":"https://alist.52qy.repl.co/dav/","userName":"qingyuan","password":"qingyuan","type":"webdav"},
-    {"name": "9T","server": "https://drive.9t.ee"},
-    {"name": "木偶","server": "https://www.kugutsu.ml"},  
-    {"name": "梓澪","server":"https://zi0.cc"},
-    {"name": "秋雨","server":"https://share.laowang.me","password":"s8;K^h[j<b"}
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk"
+    },
+    {
+       "name": "🏝fenwe",
+       "server": "http://www.fenwe.tk:5244",
+       "type": "alist"
+    },
+    {
+       "name": "🐭米奇妙妙屋",
+       "server": "https://anime.mqmmw.ga",
+       "type": "alist"
+    },
+    {
+       "name": "🌤晴园的宝藏库",
+       "server": "https://alist.52qy.repl.co",
+       "type": "alist"
+    },   
+    {"name": "9T","server": "https://drive.9t.ee"}
   ]
 }
