@@ -39,6 +39,10 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "📱网络〔俊于〕"
-        }
+        },
+        {
+            "url": "https://gitee.com/zhoujck/tv/raw/master/fmbox",
+            "name": "📱测试"
+        }      
     ]
 }
