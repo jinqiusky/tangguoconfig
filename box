@@ -42,7 +42,7 @@
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"懒懒3","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}//爱奇艺专用解析
+{"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},//爱奇艺专用解析
 
 {"name":"星辰云","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=c9ef6da05b27b7529f4d69cee2cecab0&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"刚刚","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
